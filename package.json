@@ -1,0 +1,29 @@
+{
+  "name": "wx-qrocde",
+  "version": "1.0.0",
+  "description": "微信二维码生成，临时二维码和永久二维码",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yxz1025/wx-qrcode.git"
+  },
+  "keywords": [
+    "wexin",
+    "wxqrcode",
+    "微信二维码",
+    "qrcode"
+  ],
+  "dependencies": {
+    "q": "1.4.1",
+    "request": "*"
+  },
+  "author": "yxz1025",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yxz1025/wx-qrcode/issues"
+  },
+  "homepage": "https://github.com/yxz1025/wx-qrcode#readme"
+}
