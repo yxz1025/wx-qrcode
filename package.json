@@ -1,5 +1,5 @@
 {
-  "name": "wx-qrcode",
+  "name": "wx-qrocde",
   "version": "1.1.0",
   "description": "微信二维码生成，临时二维码和永久二维码",
   "main": "index.js",

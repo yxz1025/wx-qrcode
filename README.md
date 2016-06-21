@@ -2,7 +2,7 @@
 微信二维码生成，包括临时二维码和永久二维码 支持express koa
 
 ###1、使用规则
-      var Qrcode = require('wx-qrcode');
+      var Qrcode = require('wx-qrocde');
       var opts = {
         access_token: "access_token"
       };
